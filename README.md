@@ -1,2 +1,2 @@
 # GoodWeather
-App que permite consultar a temperatura de uma Cidade em graus Celsius ou Fahrenheit
+App that allows you to consult the temperature of a specific city in temperature measured by degrees Celsius or Fahrenheit
